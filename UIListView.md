@@ -40,7 +40,7 @@ Description: UIListView
 
 UIListView 模块封装了一个数据列表控件，列表项水平侧滑可出现控制按钮；开发者可自定义列表的数据源，及列表的样式，支持列表项的增、删、改、查，支持批量更新、追加数据，支持下拉刷新和上拉加载事件。**UIListView 模块是 listView 模块的优化版。**本模块的源码开源地址为：[https://github.com/apicloudcom/UIListView](https://github.com/apicloudcom/UIListView)
 
-![图片说明](/img/docImage/listView.jpg)
+![图片说明](http://docs.apicloud.com/img/docImage/listView.jpg)
 
 <div id="m1"></div>
 #**open**
